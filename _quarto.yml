@@ -15,21 +15,20 @@ format:
     toc-depth: 4
 
 website:
-  title: ""
-  site-url: "https://.github.io/"
+  title: "nbdev-hello-world-test"
+  site-url: "https://hrmnjt.github.io/nbdev-hello-world-test"
   description: ""
   twitter-card: true
   open-graph: true
-  reader-mode: true
   repo-branch: master
-  repo-url: "https://github.com//"
+  repo-url: "https://github.com/hrmnjt/nbdev-hello-world-test"
   repo-actions: [issue]
   navbar:
     background: primary
     search: true
     right:
       - icon: github
-        href: "https://github.com//"
+        href: "https://github.com/hrmnjt/nbdev-hello-world-test"
   sidebar:
     style: "floating"
 
